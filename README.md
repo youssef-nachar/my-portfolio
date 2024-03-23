@@ -188,7 +188,7 @@
             </div>
             <div class="service-box">
                 <i class='bx bx-code-alt service-icon'></i>
-                <h3>Graphic designer</h3>
+                <h3>Analysing problems</h3>
                 <p>I have strong skills in analyzing problems and desining effective and ennovative softwar solution.I also pay attention to providing high-quality services and meeting custumer needs accurately and efficiently.</p>
 
                 <div class="btn-box service-btn">
@@ -197,7 +197,7 @@
             </div>
             <div class="service-box">
                 <i class='bx bx-desktop service-icon'></i>
-                <h3>Graphic designer</h3>
+                <h3>Softwar developper</h3>
                 <p>I have implemented many successful software projects for different clients, and have received positive reviews for the quality of the work i have provided. If you are looking for a profissional and talented programmer to develop innovative softwar solution,Iam here to server you</p>
 
                 <div class="btn-box service-btn">
