@@ -53,7 +53,7 @@
             </div>
 
             <div class="btn-box">
-                <a href="./my-CV"class="btn">Download CV</a>
+                <a href="./my-CV.pdf" download class="btn">Download CV</a>
                 <a href="#" class="btn">Hire Me Now!</a>
             </div>
 
