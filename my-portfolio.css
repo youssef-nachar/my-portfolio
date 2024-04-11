@@ -561,7 +561,10 @@ section{
 .skil-bar .bar .NodeJs{
     width:70%;
     animation:nodjs 5s;
-
+}
+.skil-bar .bar .reactjs{
+    width:80%;
+    animation:nodjs 6s;
 }
 
 
